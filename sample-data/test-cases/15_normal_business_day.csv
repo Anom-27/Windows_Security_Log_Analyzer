@@ -1,0 +1,6 @@
+EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
+4624,7/11/2026 9:00:00 AM,imran,PC-ALICE,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,192.168.1.15,2,Kerberos,,
+4624,7/11/2026 9:02:00 AM,sumit,PC-BOB,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,192.168.1.16,2,Kerberos,,
+4624,7/11/2026 9:05:00 AM,suma,PC-CHARLIE,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,192.168.1.17,2,Kerberos,,
+4634,7/11/2026 5:30:00 PM,imran,PC-ALICE,Microsoft-Windows-Security-Auditing,INFO,An account was logged off.,192.168.1.15,2,Kerberos,,
+4634,7/11/2026 5:35:00 PM,sumit,PC-BOB,Microsoft-Windows-Security-Auditing,INFO,An account was logged off.,192.168.1.16,2,Kerberos,,

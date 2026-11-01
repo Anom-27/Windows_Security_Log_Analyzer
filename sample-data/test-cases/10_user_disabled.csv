@@ -1,0 +1,2 @@
+EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
+4725,7/11/2026 1:30:00 PM,admin,DC01,Microsoft-Windows-Security-Auditing,INFO,A user account was disabled.,,,,rakibul,

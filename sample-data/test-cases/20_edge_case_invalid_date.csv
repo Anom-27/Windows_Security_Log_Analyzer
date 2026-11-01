@@ -1,0 +1,3 @@
+EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
+4624,7/11/2026 8:00:00 AM,sanjith,PC-TEST,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,192.168.9.9,2,Kerberos,,
+4625,NOT-A-VALID-DATE,broken.row,PC-TEST,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,192.168.9.9,3,NTLM,,
