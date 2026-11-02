@@ -1,2 +1,0 @@
-EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
-4726,7/11/2026 1:40:00 PM,admin,DC01,Microsoft-Windows-Security-Auditing,INFO,A user account was deleted.,,,,rakibul,

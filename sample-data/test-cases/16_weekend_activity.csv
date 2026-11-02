@@ -1,2 +1,0 @@
-EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
-4624,7/11/2026 11:00:00 AM,saiba,PC-ADMIN,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,10.1.1.1,2,Kerberos,,

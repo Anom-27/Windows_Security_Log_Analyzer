@@ -1,2 +1,0 @@
-EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
-4624,7/11/2026 2:45:00 AM,mourin,PC-REMOTE,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,88.99.12.4,10,NTLM,,

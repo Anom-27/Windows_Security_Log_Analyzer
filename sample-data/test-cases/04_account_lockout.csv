@@ -1,2 +1,0 @@
-EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
-4740,7/11/2026 11:05:00 AM,SYSTEM,DC01,Microsoft-Windows-Security-Auditing,ERROR,The account was locked out.,,,,root,
