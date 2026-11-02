@@ -1,0 +1,17 @@
+EventID,TimeCreated,Username,ComputerName,EventSource,Level,Message,IPAddress,LogonType,AuthPackage,TargetAccount,Privileges
+4624,7/10/2026 9:05:00 AM,obayet,WORKSTATION01,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,192.168.1.10,2,Kerberos,,
+4625,7/10/2026 9:10:00 AM,mallory,WORKSTATION02,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,203.0.113.55,3,NTLM,,
+4625,7/10/2026 9:11:00 AM,mallory,WORKSTATION02,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,203.0.113.55,3,NTLM,,
+4625,7/10/2026 9:12:00 AM,mallory,WORKSTATION02,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,203.0.113.55,3,NTLM,,
+4625,7/10/2026 9:13:00 AM,mallory,WORKSTATION02,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,203.0.113.55,3,NTLM,,
+4625,7/10/2026 9:14:00 AM,mallory,WORKSTATION02,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,203.0.113.55,3,NTLM,,
+4740,7/10/2026 9:15:00 AM,SYSTEM,DC01,Microsoft-Windows-Security-Auditing,ERROR,The account was locked out.,,,,mallory,
+4672,7/10/2026 10:00:00 AM,svc.backup,SERVER02,Microsoft-Windows-Security-Auditing,INFO,Special privileges assigned to new logon.,10.0.0.5,,,,SeBackupPrivilege;SeRestorePrivilege
+4720,7/10/2026 11:00:00 AM,admin,DC01,Microsoft-Windows-Security-Auditing,INFO,A user account was created.,,,,swaccha,
+4723,7/10/2026 11:30:00 AM,admin,DC01,Microsoft-Windows-Security-Auditing,INFO,An attempt was made to change an account's password.,,,,swaccha,
+4726,7/10/2026 12:00:00 PM,admin,DC01,Microsoft-Windows-Security-Auditing,INFO,A user account was deleted.,,,,siam,
+4624,7/10/2026 2:30:00 AM,ferdous,WORKSTATION03,Microsoft-Windows-Security-Auditing,INFO,An account was successfully logged on.,198.51.100.20,10,NTLM,,
+4625,7/10/2026 3:00:00 PM,sumit,WORKSTATION04,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,192.168.1.99,3,NTLM,,
+4625,7/10/2026 3:01:00 PM,sumit,WORKSTATION04,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,192.168.1.99,3,NTLM,,
+4625,7/10/2026 3:02:00 PM,sumit,WORKSTATION04,Microsoft-Windows-Security-Auditing,WARNING,An account failed to log on.,192.168.1.99,3,NTLM,,
+4634,7/10/2026 5:00:00 PM,obayet,WORKSTATION01,Microsoft-Windows-Security-Auditing,INFO,An account was logged off.,192.168.1.10,2,Kerberos,,
