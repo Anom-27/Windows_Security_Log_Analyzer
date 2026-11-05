@@ -148,7 +148,7 @@ com.siem
 
 ## Source Code
 
-[github.com/Anom-27/Windows_Security_Log_Analyzer](https://github.com/Anom-27/Windows_Security_Log_Analyzer)
+[github.com/Anom-27/Windows_Security_Log_Analyzer](https://github.com/Anom-27/Windows_Security_Log_Analyzer/tree/main/src/main/java/com/siem)
 
 ---
 
